@@ -21,7 +21,7 @@ ShowOptions()
 {
 	echo 'What do you want to do ?'
 	echo '1 - Set network address to scan'
-	echo '2 - Set you want to see details'
+	echo '2 - Set if you want to see details'
 	echo '3 - Scan the network'
 	echo '4 - Attack an Asterisk server'
 	echo '5 - Crack an account'
